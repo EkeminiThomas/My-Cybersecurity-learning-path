@@ -13,6 +13,16 @@ In business, large networks can be used to advertise and sell products, order su
 
 Business and SOHO networks usually provide a shared connection to the internet. The internet is considered a "network of networks" because it is literally made up of thousands of local networks that are connected to each other.
 
+**Network Device**
+
+**host** : are any device that sends or recieve traffic
+e.g, phone, laptop etc
+
+
+**TYPES OF HOST**
+**Client Host**: this host initiate request
+**Server Host**: this host sends request
+
 **Mobile Devices**
 
 The internet connects more computing devices than just desktop and laptop computers. There are devices all around that you may interact with on a daily basis that are also connected to the internet. These include mobile devices, home devices, and a variety of other connected devices.
@@ -20,4 +30,7 @@ The internet connects more computing devices than just desktop and laptop comput
 **Connected Home Devices**
 Many of the things in your home can also be connected to the internet so that they can be monitored and configured remotely
 e.g:Security System, Appliances, Smart TV, Gaming Console.
+
+**IP ADDRESSES**
+AN IP Address is an identity of each host.
 
